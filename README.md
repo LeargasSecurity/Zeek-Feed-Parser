@@ -47,7 +47,7 @@ The script will prompt you to enter the required data; indicator type, source an
 You can also pass arguments directly to the script and bypass user input which allows you to automate the parsing.
 
 ```
-python3 parser.py type source description /opt/Zeek-Feed-Parser/input/sample.txt /opt/zeek-threat-intel-parser/output/sample.intel
+python3 parser.py type source description /opt/Zeek-Feed-Parser/input/sample.txt /opt/Zeek-Feed-Parser/output/sample.intel
 ```
 
 ### Output Format
