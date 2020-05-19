@@ -21,15 +21,15 @@ Clone the repository into `/opt`
 
 ```
 cd /opt
-git clone https://github.com/CriticalPathSecurity/zeek-threat-intel-parser.git
+git clone https://github.com/LeargasSecurity/Zeek-Feed-Parser.git
 ```
 
 ## Usage
 
-Navigate to `/opt/zeek-threat-intel-parser`
+Navigate to `/opt/Zeek-Feed-Parser`
 
 ```
-cd /opt/zeek-threat-intel-parser
+cd /opt/Zeek-Feed-Parser
 ```
 
 And then run the parser using one of the following options
@@ -47,7 +47,7 @@ The script will prompt you to enter the required data; indicator type, source an
 You can also pass arguments directly to the script and bypass user input which allows you to automate the parsing.
 
 ```
-python3 parser.py type source description /opt/zeek-threat-intel-parser/input/sample.txt /opt/zeek-threat-intel-parser/output/sample.intel
+python3 parser.py type source description /opt/Zeek-Feed-Parser/input/sample.txt /opt/zeek-threat-intel-parser/output/sample.intel
 ```
 
 ### Output Format
