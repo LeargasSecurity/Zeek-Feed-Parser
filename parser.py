@@ -1,5 +1,7 @@
-#!/usr/local/bin/python3
-# @author      Brandon Cummings <brandon.cummings@leargaspathsecurity.com>
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+#
+# @author      Brandon Cummings <brandon.cummings@leargassecurity.com>
 # @copyright   2020 Léargas Security
 # @link        https://www.leargassecurity.com/
 # @license     MIT License
